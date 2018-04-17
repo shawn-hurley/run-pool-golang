@@ -228,6 +228,7 @@ func (t TeamScores) IsComplete() bool {
 
 //Player - player adding doc to test signing of commit
 type Player struct {
+	// testing new commit
 	Name string
 	Paid bool
 }
